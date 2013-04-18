@@ -1,0 +1,27 @@
+HTTrack3.43-7+htsswf+htsjava launched on Thu, 18 Apr 2013 23:11:56 at vmdstavby.cz +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" -%l "cz, en, *" vmdstavby.cz -O1 C:\vmdStavby\VMDStavby +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:12:56	Info: 	engine: warning: entry cleaned up, but no trace on heap: vmdstavby.cz/templates/jp_lofthouse/images/dot2.gif (C:/vmdStavby/VMDStavby/vmdstavby.cz/templates/jp_lofthouse/images/dot2.gif)
+23:12:57	Info: 	engine: warning: entry cleaned up, but no trace on heap: vmdstavby.cz/templates/jp_lofthouse/images/menu_divider.gif (C:/vmdStavby/VMDStavby/vmdstavby.cz/templates/jp_lofthouse/images/menu_divider.gif)
+23:19:21	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for vmdstavby.cz/templates/jp_lofthouse/images/dot2.gif
+23:19:22	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for vmdstavby.cz/templates/jp_lofthouse/images/menu_divider.gif
+00:18:12	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/80-bungalov-77-3-kk (from vmdstavby.cz/index.php/typove-domy)
+00:18:19	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/90-klasik-83-4-kk (from vmdstavby.cz/index.php/typove-domy)
+00:18:24	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/81-bungalov-87-4-kk (from vmdstavby.cz/index.php/typove-domy)
+00:18:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/images/typove_projekty/KLASIK_84.jpg (from vmdstavby.cz/index.php/typove-domy)
+00:18:39	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/components/com_phocagallery/assets/phocagallery.css (from vmdstavby.cz/index.php/galerie)
+00:21:23	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/templates/jp_lofthouse/fonts/PTS56F-webfont.eot (from vmdstavby.cz/templates/jp_lofthouse/fonts/fonts.css)
+00:21:31	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/images/typove_stavby/Bungalov_275.jpg (from vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/87-bungalov-275-4-kk-2garaz)
+00:21:52	Warning: 	File seems complete (same size), but there was a cache read error: vmdstavby.cz/index.php/galerie/1-vzorove-stavby/detail/61-nase-prace?tmpl=component&phocadownload=2
+00:22:47	Warning: 	File seems complete (same size), but there was a cache read error: vmdstavby.cz/index.php/galerie/1-vzorove-stavby/detail/62-nase-prace?tmpl=component&phocadownload=2
+00:23:41	Warning: 	File seems complete (same size), but there was a cache read error: vmdstavby.cz/index.php/galerie/1-vzorove-stavby/detail/63-nase-prace?tmpl=component&phocadownload=2
+00:24:24	Warning: 	File seems complete (same size), but there was a cache read error: vmdstavby.cz/index.php/galerie/1-vzorove-stavby/detail/64-nase-prace?tmpl=component&phocadownload=2
+00:25:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link vmdstavby.cz/images/typove_stavby_p/klasik_143p.jpg (from vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/94-klasik-143-5-kk)
+
+HTTrack Website Copier/3.43-7 mirror complete in 1 hours 13 minutes 58 seconds : 946 links scanned, 718 files written (22722950 bytes overall) [108765238 bytes received at 24507 bytes/sec], 5398061 bytes transfered using HTTP compression in 333 files, ratio 17%, 3.3 requests per connection
+(8 errors, 6 warnings, 2 messages)

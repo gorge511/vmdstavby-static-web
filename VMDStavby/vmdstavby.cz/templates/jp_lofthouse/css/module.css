@@ -1,0 +1,90 @@
+/* MODULE RIGHT & LEFT BASIC STYLE
+--------------------------------------------------------- */
+
+#left div.module_menu h3,
+#left div.module_text h3,
+#left div.module h3,
+#right div.module_menu h3,
+#right div.module_text h3,
+#right div.module h3{
+padding:0;margin:0}
+
+#left div.module_hot,
+#left div.module_new,
+#left div.module_menu,
+#left div.module_text,
+#left div.module,
+#right div.module_hot,
+#right div.module_new,
+#right div.module_menu,
+#right div.module_text,
+#right div.module{
+	margin-bottom:30px;
+}
+
+/* MODULE USER 1 2 3
+--------------------------------------------------------- */
+
+.usertop div.module_menu h3,
+.usertop div.module_text h3,
+.usertop div.module h3{
+	margin-bottom:14px;
+	color:#333;
+
+}
+.usertop div.module_hot,
+.usertop div.module_new,
+.usertop div.module_menu,
+.usertop div.module_text,
+.usertop div.module{
+	line-height:1.4;margin:15px; background:#fff
+}
+/* MODULE USER 4 5 6
+--------------------------------------------------------- */
+
+.bottom_module div.module_menu h3,
+.bottom_module div.module_text h3,
+.bottom_module div.module h3{
+	margin-bottom:14px;
+
+}
+.bottom_module div.module_hot,
+.bottom_module div.module_new,
+.bottom_module div.module_menu,
+.bottom_module div.module_text,
+.bottom_module div.module{
+	line-height:1.4;margin:10px; background:#fff
+}
+.userbottom2 div.module{padding:20px}
+/* MODULE USER Before & After
+--------------------------------------------------------- */
+
+.before_after div.module_menu h3,
+.before_after div.module_text h3,
+.before_after div.module h3{
+	text-align:left;
+	margin-bottom:14px;
+
+}
+
+.before_after div.module_hot,
+.before_after div.module_new,
+.before_after div.module_menu,
+.before_after div.module_text,
+.before_after div.module{
+	line-height:1.4;padding-bottom:20px; 
+}
+
+	
+/* MODULE FOOTER
+--------------------------------------------------------- */
+#footer div.module_menu,
+#footer div.module_text,
+#footer div.module{
+	font-size:100%;
+	margin-bottom:10px;
+
+}
+
+
+
