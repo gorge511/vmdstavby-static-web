@@ -1,0 +1,11 @@
+/* CSS Document */
+
+.well-blue {
+	background-color: #BBDDFF;
+}
+
+table.kontakt .kontakt-label {
+	color: #888;
+	vertical-align: top;
+	text-align: right;
+}
