@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-vmdstavby.cz	TRUE	/	FALSE	1999999999	5ed27ed8329688aaac0b4b82ef702216	09ddn1d84b67s4m4cbugd1pdt4
-
