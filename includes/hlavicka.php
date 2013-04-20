@@ -24,7 +24,7 @@
     </head>
     <body>
         <div class="container" style="width: 900px">
-            <div class="lead"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
+            <div class="header-logo"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="container" style="width: auto;">
@@ -34,7 +34,6 @@
                             <span class="icon-bar"></span>
                         </a>
                         <div class="nav-collapse">
-                            <span class="brand">V.M.D. Stavby</span>
                             <ul class="nav">
                                 <li<?php echo ((isset($active) && $active == "home") ? " class=\"active\"" : "") ?>><a href="index.php">Home</a></li>
                                 <li<?php echo ((isset($active) && $active == "stavby-na-klic") ? " class=\"active\"" : "") ?>><a href="stavby-na-klic.php">Stavby na klíč</a></li>
