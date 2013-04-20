@@ -3,7 +3,7 @@ $title = "Stavby na klíč";
 $active = "stavby-na-klic";
 include("includes/hlavicka.php");
 ?>
-<?php include("includes/slideshow.php"); ?>
+
 <div class="row-fluid">
     <div class="span8 well">
         <h3>Stavby na klíč</h3

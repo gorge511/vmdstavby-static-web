@@ -3,7 +3,7 @@ $title = "Projekty na zakázku";
 $active = "projekty-na-zakazku";
 include("includes/hlavicka.php");
 ?>
-<?php include("includes/slideshow.php"); ?>
+
 <div class="row-fluid">
     <div class="span8 well">
         <h3>Projekty staveb</h3>

@@ -3,7 +3,6 @@ $title = "Doplňkové služby";
 $active = "doplnkove-sluzby";
 include("includes/hlavicka.php");
 ?>
-<?php include("includes/slideshow.php"); ?>
 <div class="row-fluid">
     <div class="span8 well">
         <h3>Doplňkové služby</h3>
