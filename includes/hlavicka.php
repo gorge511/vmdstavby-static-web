@@ -24,7 +24,7 @@
     </head>
     <body>
         <div class="container" style="width: 900px">
-            <div class="page-header"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
+            <div class="lead"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="container" style="width: auto;">
