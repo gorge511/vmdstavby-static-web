@@ -1,7 +1,11 @@
 /* CSS Document */
 
+body {
+	background-color: #E0F0FF;
+}
+
 .well-blue {
-	background-color: #BBDDFF;
+	background-color: #BeDfFF;
 }
 
 table.kontakt .kontakt-label {
