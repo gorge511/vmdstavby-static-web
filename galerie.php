@@ -21,9 +21,9 @@
         <script src="js/mootools-core.js" type="text/javascript"></script>
         <script src="js/mootools-more.js" type="text/javascript"></script>
         <script src="modules/smooth_gallery/jd.gallery.js" type="text/javascript"></script>
-        
-        
-        
+
+
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
         <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
         <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
@@ -60,17 +60,44 @@
 
                     <ul class="gallery clearfix">
                         <?php
-                        $i = 20;
-                        while ($i < 40) {
+                        /* $i = 20;
+                          while ($i < 40) {
 
-                            echo '<a href="galerie/vzorove-stavby/detail/' . $i . '-nase-pracec903.jpg" rel="prettyPhoto[gallery2]"><img src="galerie/vzorove-stavby/detail/' . $i . '-nase-pracec903.jpg" width="100px" height="100px" alt="" style="float: left; margin-right: 10px; margin-top: 10px" /></a>';
+                          //echo '<a href="galerie/vzorove-stavby/detail/' . $i . '-nase-pracec903.jpg" rel="prettyPhoto[gallery2]"><img src="galerie/vzorove-stavby/nahled/' . $i . '-nase-pracec903.jpg" width="120" height="150" border="3" alt="" style="float: left; margin-right: 10px; margin-top: 10px" /></a>';
 
 
+                          $i++;
+                          ?>
+
+
+                          <?php
+                          } */
+
+
+
+
+                        $nazev_slozky = "galerie/vzorove-stavby/nahled";
+
+                        $slozka = opendir($nazev_slozky);
+                        if ($slozka == false)
+                            die;
+                        while ($soubor = readdir($slozka)) {
+                            if ($soubor == ".." || $soubor == ".")
+                                continue;
+                            if (preg_match("/nahled_/", $soubor))
+                                continue;
+                            if (preg_match("/jpg/", $soubor)) {
+                                $obrazky[] = $soubor;
+                            }
+                        }
+                        closedir($slozka);
+
+                        $pocet_obrazku = count($obrazky);
+                        $i=20;
+                        while($i<$pocet_obrazku){
+                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"" . $obrazky[$i] . "\" style=\"float: left; margin-right: 10px; margin-top: 10px\" /></a>&nbsp;\n";
+                        
                             $i++;
-                            ?>
-
-
-                            <?php
                         }
                         ?>
                     </ul>
@@ -79,7 +106,7 @@
                         $(document).ready(function(){
                             $("area[rel^='prettyPhoto']").prettyPhoto();
 				
-                            $(".gallery:first a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal',theme:'light_square',slideshow:3000, autoplay_slideshow: false});
+                            $(".gallery:first a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'normal',theme:'pp_default',slideshow:3000, autoplay_slideshow: false});
                             $(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',slideshow:10000, hideflash: false});
 		
                             $("#custom_content a[rel^='prettyPhoto']:first").prettyPhoto({
