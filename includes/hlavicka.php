@@ -18,9 +18,7 @@
         <link href="css/bootswatch.css" rel="stylesheet">  
         <link href="css/style.css" rel="stylesheet">  
 
-        <script src="js/mootools-core.js" type="text/javascript"></script>
-        <script src="js/mootools-more.js" type="text/javascript"></script>
-        <script src="modules/smooth_gallery/jd.gallery.js" type="text/javascript"></script>
+        <?php echo (isset($meta) ? $meta : "") ?>
     </head>
     <body>
         <div class="container" style="width: 900px">
