@@ -12,22 +12,6 @@
                 <div class="span8 well" style="text-align: center;">
                     <ul class="gallery clearfix">
                         <?php
-                        /* $i = 20;
-                          while ($i < 40) {
-
-                          //echo '<a href="galerie/vzorove-stavby/detail/' . $i . '-nase-pracec903.jpg" rel="prettyPhoto[gallery2]"><img src="galerie/vzorove-stavby/nahled/' . $i . '-nase-pracec903.jpg" width="120" height="150" border="3" alt="" style="float: left; margin-right: 10px; margin-top: 10px" /></a>';
-
-
-                          $i++;
-                          ?>
-
-
-                          <?php
-                          } */
-
-
-
-
                         $nazev_slozky = "galerie/vzorove-stavby/nahled";
 
                         $slozka = opendir($nazev_slozky);
@@ -45,11 +29,7 @@
                         closedir($slozka);
 
                         $pocet_obrazku = count($obrazky);
-<<<<<<< HEAD
-                        $i=20;
-                        while($i<$pocet_obrazku){
-                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"" . $obrazky[$i] . "\" style=\"float: left; margin-right: 10px; margin-top: 10px\" /></a>&nbsp;\n";          
-=======
+
 						$pocet_na_stranku = 21;
 						$posledni = ceil($pocet_obrazku / $pocet_na_stranku);
 						
@@ -69,8 +49,6 @@
 
                         while($i<$konec){
                             echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"Galerie VMD Stavby\" class=\"img-polaroid\" style=\"float: left; margin-right: 20px; margin-top: 10px\" /></a>&nbsp;\n";
-                        
->>>>>>> e377435dbef8e4a31a36c1684e8e71e0faa78cb1
                             $i++;
                         }
                         ?>
