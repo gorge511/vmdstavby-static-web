@@ -6,7 +6,6 @@
         <meta name="author" content="Batha" />
         <meta name="description" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
         <title><?php echo (isset($title) ? $title." :: " : "") ?>VMD - Projekty - Stavby</title>
-        <link rel="stylesheet" href="/modules/smooth_gallery/jd.gallery.css" type="text/css" />
 
         <!--[if lt IE 9]>
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

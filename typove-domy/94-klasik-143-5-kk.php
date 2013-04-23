@@ -1,307 +1,21 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs-cz" lang="cs-cz" dir="ltr" >
-
-<!-- Mirrored from vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/89-klasik-71-4-kk by HTTrack Website Copier/3.x [XR&CO'2008], Thu, 18 Apr 2013 21:47:35 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
-<head>
-  <base  />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="keywords" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
-  <meta name="author" content="Cernik" />
-  <meta name="description" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
-  <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>KLASIK 71 4+kk</title>
-  <link rel="stylesheet" href="../modules/smooth_gallery/jd.gallery.css" type="text/css" />
-  <link rel="stylesheet" href="../modules/smooth_gallery/layout.css" type="text/css" />
-  <style type="text/css">
- .slideInfoZone{height:-50px;} 
- .slideInfoZone{display:none;} 
- .carouselBtn{display:none;} 
-
-  </style>
-  <script src="../js/mootools-core.js" type="text/javascript"></script>
-  <script src="../js/core.js" type="text/javascript"></script>
-  <script src="../js/caption.js" type="text/javascript"></script>
-  <script src="../js/mootools-more.js" type="text/javascript"></script>
-  <script src="../modules/smooth_gallery/jd.gallery.js" type="text/javascript"></script>
-  <script type="text/javascript">
-window.addEvent('load', function() {
-				new JCaption('img.caption');
-			});
-  </script>
-
-
-<link rel="stylesheet" href="../templates/system/css/general.css" type="text/css" />
-
-<!-- Loads Template Layout CSS -->
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/layout.css" type="text/css" />
-	
-<!-- Loads Joomla base/default classes-->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/template.css" type="text/css" />
-
-<!-- Loads left main right -->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/left_main_right.css" type="text/css"/>
-
-<!-- Loads left right menu-->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/menu.css" type="text/css" />
-
-<!-- Loads Suckerfish -->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/suckerfish.css" type="text/css"/>
-
-<!-- Loads Module Styles -->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/module.css" type="text/css" />
-
-<!-- Loads Typo Styles -->	
-<link rel="stylesheet" href="../templates/jp_lofthouse/css/jp_typo.css" type="text/css" />
-
-<!-- Loads CSS3 file with some nice modern effects-->	
-	<link rel="stylesheet" href="../templates/jp_lofthouse/css/css3.css" type="text/css" />
-	
-
-
-<!--[if IE 7]>
-<link rel="stylesheet" href="/templates/jp_lofthouse/css/ie7.css" type="text/css" media="screen, projection, print">
-<![endif]-->
-
-
-<script type="text/javascript" src="../templates/jp_lofthouse/js/slimbox.js"></script>
-
-<link rel="stylesheet" href="../templates/jp_lofthouse/fonts/fonts.css" type="text/css" />
-
-<style type="text/css" media="screen">
-   .function_outer { display:none; }
-</style>
-<style type="text/css" media="screen">
-   .path_search { display:none }
-</style>
-
-<style type="text/css" media="screen">
-   #left, #right  { width:200px; }
-   .template_width { width:900px; }
-#suckerfish li ul a:hover,
-#suckerfish li ul a:active,
-#suckerfish li ul a:focus,
-#suckerfish li.active a,
-#suckerfish li a:hover,
-#suckerfish li a:active,
-#suckerfish li a:focus,
-#suckerfish li:hover a,
-#suckerfish li.sfhover a,
-#suckerfish li.havechildsfhover a,
-#suckerfish li.havechild-activesfhover a,
-#suckerfish ul li .active,
-#suckerfish li a.active,
-#suckerfish li a.active:hover,
-#suckerfish li a.active:active,
-#suckerfish li a.active:focus,
-#suckerfish li ul a:hover,
-#suckerfish li ul a:active,
-#suckerfish li ul a:focus,
-#suckerfish ul li.havesubchildsfhover,
-#suckerfish ul li.havesubchild-activesfhover,
-#suckerfish ul ul li:hover,
-#suckerfish ul ul li.sfhover,
-#suckerfish ul ul li.havesubchildsfhover,
-#suckerfish ul ul li.havesubchild-activesfhover,
-#suckerfish ul li a.active,
-#suckerfish ul li a.active:hover,
-#suckerfish ul li a.active:active,
-#suckerfish ul li a.active:focus
-#suckerfish li ul a:hover,
-#suckerfish li ul a:active,
-#suckerfish li ul a:focus{
-	color: #f45700;}
-
-</style>
-
-<style type="text/css" media="screen">
-   .usertop { width:50%}
-</style>
-
-<style type="text/css" media="screen">
-   .userbottom1 { width:50%}
-</style>
-
-
-
-<!--Starting Suckerfish Script-->
-<script type="text/javascript" src="../templates/jp_lofthouse/js/moomenu.js"></script>
-<script type="text/javascript">
-window.addEvent('domready',function(){
-	$('suckerfish').MooDropMenu({
-		onOpen: function(el){
-			el.fade('in')
-		},
-		onClose: function(el){
-			el.fade('out');
-		},
-		onInitialize: function(el){
-			el.fade('hide').set('tween',{duration:500});
-		}
-	});
-
-});
-</script>
-<!--Suckerfish Script End-->
-
-<!--Loads FavIcon-->
-<link rel="shortcut icon" href="../templates/jp_lofthouse/images/favicon.ico" />  
-</head>
-<body>
-<div class="function_outer"> 
-<h2><div id="pj-fm"><a href="http://www.printer-spb.ru/" target="_blank" title="СНПЧ Epson">СНПЧ Epson</a><br><a href="http://tophoster.org/" target="_blank" title="лучший хостинг joomla">лучший хостинг joomla</a></div></h2>	<div class="function_inner template_width"> 
-							<div class="jpclear"></div>
-	</div> <!-- div.function_inner ends here-->
-</div> <!-- div.function_outer ends here-->
-
-<div class="wrapper">
-<div class="wrapper_inner template_width">
-
-	<div class="top_inner template_width"> 
-
-	<div class="slideshow template_width">		<div class="module">
-			<div>
-				<div>
-					<div>
-											<div>
-	<div id="myGallery" style="width: 900px; height: 360px;">
-    													                <div class="imageElement">
-                        <h3>Naše práce</h3>
-                        <p>Takhle můžu vypadat i Váš nový dům.</p>
-                        <a href="http://www.vmdstavby.cz/" title="Naše práce" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_04.jpg" class="full" alt="Naše práce" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Naše práce</h3>
-                        <p>Takhle můžu vypadat i Váš nový dům.</p>
-                        <a href="http://www.vmdstavby.cz/" title="Naše práce" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_01.jpg" class="full" alt="Naše práce" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Naše práce</h3>
-                        <p>Takhle můžu vypadat i Váš nový dům.</p>
-                        <a href="http://www.vmdstavby.cz/" title="Naše práce" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_02.jpg" class="full" alt="Naše práce" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 4 title</h3>
-                        <p>type your text for 4th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 4 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_03.jpg" class="full" alt="Image 4 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 5 title</h3>
-                        <p>type your text for 5th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 5 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_15.jpg" class="full" alt="Image 5 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 6 title</h3>
-                        <p>type your text for 6th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 6 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_09.jpg" class="full" alt="Image 6 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 7 title</h3>
-                        <p>type your text for 7th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 7 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_07.jpg" class="full" alt="Image 7 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 8 title</h3>
-                        <p>type your text for 8th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 8 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_16.jpg" class="full" alt="Image 8 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 9 title</h3>
-                        <p>type your text for 9th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 9 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_11.jpg" class="full" alt="Image 9 title" />
-                </div>
-										                <div class="imageElement">
-                        <h3>Image 10 title</h3>
-                        <p>type your text for 10th image here</p>
-                        <a href="http://www.joomlaplates.com/" title="Image 10 title" class="open"></a>
-                        <img src="../images/smooth_gallery/hlavni_12.jpg" class="full" alt="Image 10 title" />
-                </div>
-							</div>
-
-</div>
-<script type="text/javascript">
-		var myGallery = new gallery($('myGallery'), {
-			timed: true,
-			embedLinks: 0,
-			fadeDuration: 500,
-			delay: 9000,
-			useThumbGenerator: true,
-			textShowCarousel: 'More Images',
-			thumbGenerator: 'http://vmdstavby.cz/modules/mod_jp_smooth_gallery/resizer.php'
-		});
-</script>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> 
-	<div class="slideshow_shadow"></div>
-
-
-<!--BEGINN SUCKERFISH -->
-				<div id="suckerfish" class="dropdown">
-<ul class="menu">
-<li class="item-435"><a href="../index.php" >Home</a></li><li class="item-294"><a href="../stavby-na-klic.html" >Stavby na klíč</a></li><li class="item-474"><a href="../typove-domy.html" >Typové domy</a></li><li class="item-476"><a href="../projekty-na-zakazku.html" >Projekty na zakázku</a></li><li class="item-477"><a href="../doplnkove-sluzby.html" >Doplňkové služby</a></li><li class="item-485"><a href="../galerie.html" >Galerie</a></li><li class="item-475"><a href="../dotazy.html" >Dotazy</a></li><li class="item-478"><a href="../kontakt.php" >Kontakt</a></li></ul>
-</div>
-		<!--END SUCKERFISH -->
-	<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->
-	</div> <!-- div.top_inner ends here-->
-	<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->
- </div><!-- div.wrapper_inner ends here-->
-</div><!-- div.wrapper ends here-->
-
-
-<div class="main_outer"> 
-	<div class="main_inner template_width" > 
-		<div class="path_search"> 
-										<div class="jpclr"></div><!--AUTO HEIGH FIX FOR FIREFOX -->
-		</div> <!-- div.pathway ends here-->
-	  <div class="main">
-					<div class="container">
-						
-			
-					<!-- Including inner content area -->
-					<!--BEGINN JOOMLA CONTENT -->
-        <div id="joomla_container">
-        	                        <div id="joomla_content">
-            	<div id="joomla_content-inner">
-					
-                						<div class="jpclr"></div>
-					
-<div id="system-message-container">
-</div>
-                    <div class="item-page">
-
-	<h2>
-			KLASIK 71 4+kk		</h2>
-
-
-
-
-
-
-
-
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><strong style="line-height: 150%;"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><img style="float: left; margin-right: 20px;" alt="KLASIK 71" src="../images/typove_domy/KLASIK_71.jpg" width="165" height="114" />Počet podlaží:</span></span></strong><span style="line-height: 150%;" size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2</span></span></p>
-<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Dispozice:</span></b><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">4+kk</span></span></p>
-<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Zastavěná plocha:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">71,34m2</span></span></p>
-<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Stavba na klíč:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">od 2.120.000,- bez DPH</span></span></p>
-<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Hrubá stavba:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">od 1.090.000,- bez DPH</span></span></p>
+<?php
+    $title = "Bungalov 60 2+kk";
+	$active = "typove-domy";
+	include("../includes/hlavicka.php");
+?>
+            <div class="row-fluid">
+                <div class="span8 well">
+	<h2>KLASIK 143 5+kk</h2>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><strong style="line-height: 150%;"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><img style="float: left; margin-right: 20px;" alt="klasik 143" src="../images/typove_domy/KLASIK_143.jpg" width="216" height="114" />Počet podlaží:</span></span></strong><span style="line-height: 150%;" size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2</span></span></p>
+<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Dispozice:</span></b><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">5+kk</span></span></p>
+<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Zastavěná plocha:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">142,5m2</span></span></p>
+<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Stavba na klíč:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">od 3.390.000,- bez DPH</span></span></p>
+<p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><strong><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Hrubá stavba:</span></span></strong><span size="2"><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">od 1.890.000,- bez DPH</span></span></p>
 <p style="margin: 0cm 0cm 2pt; line-height: 150%; background-color: white;"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Ceny uvedené pro základní vybavenost</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><span class="apple-converted-space"></span></span></b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Dům je MENŠÍ rozměrové kategorie a je vhodný pro čtyř až pěti člennou rodinu. Projekt možno vzrcadlit popřípadě jakkoliv upravit.</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><span class="apple-converted-space"></span></span></b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Dům je střední rozměrové kategorie a je vhodný pro pěti až šesti člennou rodinu. Projekt možno vzrcadlit popřípadě jakkoliv upravit.</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><img alt="klasik 71" src="../images/typove_domy_pudorysy/klasik_71.jpg" width="287" height="300" />&nbsp;<img alt="klasik 71p" src="../images/typove_domy_pudorysy/klasik_71p.jpg" width="262" height="250" /></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"><img alt="klasik 143" src="../images/typove_domy_pudorysy/klasik_143.jpg" width="389" height="300" /><img alt="klasik 143p" src="../images/typove_domy_pudorysy/klasik_143p.jpg" width="342" height="250" /></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Základní vybavenost:</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
@@ -335,10 +49,10 @@ window.addEvent('domready',function(){
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Vodorovné konstrukce:</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Strop 1.NP:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">předpjaté dutinové panely dle PD včetně žel.bet. obvodového věnce</span></span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Schodiště:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">zavřená zavěšená žel. bet. konstrukce se zaklopením linoleem včetně schodištních lišt</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Schodiště:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">samonosné dřevěné schodiště se standardním dřevěným zábradlím – dub, buk bezbarvý lak</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Zastřešení stavby:</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Krovy: klasické krovy s&nbsp;hoblovanými přesahy pobitými palubkami shora natřenými bezbarvým lakem</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Krovy: klasické krovy popřípadě příhradové vazníky bez přesahů</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Tašky: KM-BETA klasik včetně všech potřebných doplňků – ČERVENÁ, ČERNÁ A HNĚDÁ BARVA BARVA</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Okapy, svody a oplechování: Pobarvený plech okapní svody budou zakončeny nad úrovní rostlého terénu</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Hromosvod: dle elektro projektu</span></span></p>
@@ -351,7 +65,7 @@ window.addEvent('domready',function(){
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Zařizovací předměty zdravotechniky:</span></span></span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2 x standardní WC kombi v&nbsp;ceně včetně ovládacího zařízení do 2.500,- /kus včetně DPH</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2 x umyvadlo včetně baterie v&nbsp;ceně do 2.500,- /kus včetně DPH</span></span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">1 x sprchový kout stavebnice s&nbsp;vlastní baterií v&nbsp;celkové ceně do 8.000,- /kus včetně DPH</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2 x sprchový kout stavebnice s&nbsp;vlastní baterií v&nbsp;celkové ceně do 8.000,- /kus včetně DPH</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">1 x vana včetně baterie v&nbsp;ceně do 6.500,- /kus včetně DPH</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Ústřední topení:</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
@@ -370,7 +84,7 @@ window.addEvent('domready',function(){
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Zasklení: trojsklo bez okrasných vnitřních příček</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Vchodové dveře:</span></span></span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Stejného systému jako okna s&nbsp;kováním vchodových dveří v&nbsp;patřičném profilu, výplň Izolační trojsklo popřípadě hladká deska</span></span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Střešní okna:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">3 x ROTO, VELUX základní</span></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Střešní okna:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">jsou li neprojektovány ROTO, VELUX základní</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span><span style="text-decoration: underline;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Garážová vrata:</span></span></span><span class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">pokud je součástí stavby garáž – rolovací s&nbsp;el. pohonem na dálkové ovládání bílé do 26.000,- bez DPH/kus/stavební otvor</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><i><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Vnitřních:</span></i></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
@@ -404,118 +118,18 @@ window.addEvent('domready',function(){
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Garážové stání :<span class="apple-converted-space">&nbsp;</span></span></b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Není součástí dodávky</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; text-align: center; line-height: 150%; background-color: white;" class="western" align="center"><span size="4"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Některé z&nbsp;možných víceprací:</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">2.) Komín HELUZ popř. SIKO s&nbsp;okrasnou imitací cihel nad úrovní střechy dle výběru dodavatel (bílá, červená), přívod vzduchu ve finálních podlahách k&nbsp;topnému mediu.</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">cena: 46.000,- bez DPH/kus</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">cena: 50.000,- bez DPH/kus</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">3.) Vnější fasáda v&nbsp;světlé barvě (bezpříplatkový odstín)</span></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">cena: 20.000,- bez DPH</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
-<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p>
+<p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">cena: 40.000,- bez DPH</span></b></span><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin: 0cm 0cm 0.0001pt; line-height: 150%; background-color: white;" class="western"><span size="2"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Další možné vícepráce rádi doceníme dle vašich požadavků.</span></span></p>
 <p style="line-height: 150%;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">&nbsp;</span></p> 
-	
-</div>
-
-					<div class="jpclr"></div>
-                	                	<div class="jpclr"></div>
                 </div>
+<?php include("../includes/side-kontakt.php"); ?>
             </div>
-        	<div class="jpclr"></div>
-        </div>
-        <div class="jpclr"></div>
-<!--END JOOMLA CONTENT -->
-			
-					
-					</div>
-	
-	  </div><!-- div.main ends here-->	
-		<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->
-	</div> <!-- div.main_inner ends here-->
-</div> <!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-					 	
-					<!-- Including bottom content area-->
-					<div class="bottom_module template_width">
-      <div class="userbottom2">		<div class="module">
-			<div>
-				<div>
-					<div>
-													<h3>Kontakt</h3>
-											
-
-<div class="custom"  >
-	<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">VMD-PROJEKTY-STAVBY</span></p>
-<address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Na Náměti 561</span></address><address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Kutná Hora</span></address><address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">284 01</span></address>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Tel.: 731&nbsp;554&nbsp;141, 733&nbsp;383&nbsp;064</span></p>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">e-mail.: <span color="#0000ff" style="color: #0000ff;"><a href="mailto:
- <script type='text/javascript'>
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy82755 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;';
- addy82755 = addy82755 + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- document.write('<a ' + path + '\'' + prefix + ':' + addy82755 + '\'>');
- document.write(addy82755);
- document.write('<\/a>');
- //-->\n </script><script type='text/javascript'>
- <!--
- document.write('<span style=\'display: none;\'>');
- //-->
- </script>Tato e-mailová adresa je chráněna před spamboty. Pro její zobrazení musíte mít povolen Javascript.
- <script type='text/javascript'>
- <!--
- document.write('</');
- document.write('span>');
- //-->
- </script>"><span color="#000000" style="color: #000000;"></span></a><span color="#000000" style="color: #000000;">
- <script type='text/javascript'>
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy36671 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;';
- addy36671 = addy36671 + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- var addy_text36671 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;' + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- document.write('<a ' + path + '\'' + prefix + ':' + addy36671 + '\'>');
- document.write(addy_text36671);
- document.write('<\/a>');
- //-->\n </script><script type='text/javascript'>
- <!--
- document.write('<span style=\'display: none;\'>');
- //-->
- </script>Tato e-mailová adresa je chráněna před spamboty. Pro její zobrazení musíte mít povolen Javascript.
- <script type='text/javascript'>
- <!--
- document.write('</');
- document.write('span>');
- //-->
- </script></span></span></span></p>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">www.vmdstavby.cz</span></p>
-<p class="western" style="margin-bottom: 0cm;"><a href="http://www.vprojekty.cz/"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">www.vprojekty.cz</span></a></p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-     
-    
-		
-	<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->	
-</div>  					
-
-
-
-
-</body>
-
-<!-- Mirrored from vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/89-klasik-71-4-kk by HTTrack Website Copier/3.x [XR&CO'2008], Thu, 18 Apr 2013 21:47:43 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
-</html>
+<?php include("../includes/paticka.php"); ?>

@@ -5,8 +5,7 @@
 ?>
             <div class="row-fluid">
                 <div class="span8 well">
-	<h2>
-			Bungalov 60 2+kk		</h2>
+	<h2>Bungalov 60 2+kk</h2>
 
 <div><strong style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;"><span style="font-size: 10pt; line-height: 150%;"><img style="float: left; margin-right: 20px;" alt="Bungalov 60" src="../images/typove_domy/Bungalov_60.jpg" width="184" height="114" />Počet podlaží:</span></strong><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;" class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%;">1</span></div>
 <div><strong style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;">Dispozice:</strong><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;" class="apple-converted-space">&nbsp;</span><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;">2+kk</span></div>
@@ -116,7 +115,6 @@
 <p style="margin-bottom: 0.0001pt; line-height: 150%;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">3.) Vnější fasáda v&nbsp;světlé barvě (bezpříplatkový odstín)</span></p>
 <p style="margin-bottom: 0.0001pt; line-height: 150%;"><b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">cena: 9.000,- bez DPH</span></b><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;"></span></p>
 <p style="margin-bottom: 0.0001pt; line-height: 150%;"><span style="font-size: 10pt; line-height: 150%; font-family: Tahoma, sans-serif;">Další možné vícepráce rádi doceníme dle vašich požadavků.&nbsp;</span></p> 
-	</div>
                 </div>
 <?php include("../includes/side-kontakt.php"); ?>
             </div>

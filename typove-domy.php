@@ -25,6 +25,15 @@
             <?php
 			include("includes/typove-domy.php");
 			foreach($domy as $k => $dum){
+				if(!file_exists("typove-domy/".$dum[7])) {
+					$dis = " disabled";
+					$adresa = "#";
+				}
+				else {
+					$dis = "";
+					$adresa = "typove-domy/".$dum[7];
+				}
+				
 				echo'
 				<li class="span4">
                 <div class="thumbnail">
@@ -36,7 +45,7 @@
 <strong>Zastavěná plocha:</strong> '.$dum[4].'<br>
 <strong>Stavba na klíč:</strong> '.$dum[5].'<br>
 <strong>Hrubá stavba:</strong> '.$dum[6].'</p>
-                    <p><a href="typove-domy/'.$dum[7].'" class="btn btn-primary pull-right">Více info</a></p>
+                    <p><a href="'.$adresa.'" class="btn btn-primary pull-right'.$dis.'">Více info</a></p>
                   </div>
                 </div>
               </li>';
