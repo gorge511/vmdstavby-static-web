@@ -6,7 +6,6 @@
             <div class="row-fluid">
                 <div class="span8 well">
 	<h2>Bungalov 60 2+kk</h2>
-
 <div><strong style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;"><span style="font-size: 10pt; line-height: 150%;"><img style="float: left; margin-right: 20px;" alt="Bungalov 60" src="../images/typove_domy/Bungalov_60.jpg" width="184" height="114" />Počet podlaží:</span></strong><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;" class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%;">1</span></div>
 <div><strong style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;">Dispozice:</strong><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;" class="apple-converted-space">&nbsp;</span><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;">2+kk</span></div>
 <div><strong style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;"><span style="font-size: 10pt; line-height: 150%;">Zastavěná plocha:</span></strong><span style="font-family: tahoma, arial, helvetica, sans-serif; line-height: 150%;" class="apple-converted-space"><span style="font-size: 10pt; line-height: 150%;">&nbsp;</span></span><span style="font-size: 10pt; line-height: 150%;">60,3m2</span></div>

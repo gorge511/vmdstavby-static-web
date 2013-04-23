@@ -37,7 +37,9 @@
 				echo'
 				<li class="span4">
                 <div class="thumbnail">
-                  <img alt="'.$dum[0].'" src="images/typove_domy/'.$dum[1].'">
+				<a href="'.$adresa.'">
+	                  <img alt="'.$dum[0].'" src="images/typove_domy/'.$dum[1].'">
+				  </a>
                   <div class="caption">
                     <h3>'.$dum[0].'</h3>
 <p><strong>Počet podlaží:</strong> '.$dum[2].'<br>
@@ -57,5 +59,4 @@
           </div>
 
 
-            </div>
 <?php include("includes/paticka.php"); ?>
