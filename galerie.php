@@ -1,63 +1,15 @@
-<!DOCTYPE html>
-<html lang="cs-cz">
-    <head>
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-        <meta name="keywords" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
-        <meta name="author" content="Batha" />
-        <meta name="description" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
-        <title>Stavby na klíč :: VMD - Projekty - Stavby</title>
-        <link rel="stylesheet" href="modules/smooth_gallery/jd.gallery.css" type="text/css" />
-
-        <!--[if lt IE 9]>
-          <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-        <link href="css/font-awesome.min.css" rel="stylesheet">
-        <link href="css/bootswatch.css" rel="stylesheet">  
-        <link href="css/style.css" rel="stylesheet">  
-
-        <script src="js/mootools-core.js" type="text/javascript"></script>
-        <script src="js/mootools-more.js" type="text/javascript"></script>
-        <script src="modules/smooth_gallery/jd.gallery.js" type="text/javascript"></script>
-
-
-
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
-        <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
-        <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-
-
-    </head>
-    <body>
-        <div class="container" style="width: 900px">
-            <div class="header-logo"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
-            <div class="navbar navbar-inverse">
-                <div class="navbar-inner">
-                    <div class="container" style="width: auto;">
-                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </a>
-                        <div class="nav-collapse">
-                            <ul class="nav">
-                                <li><a href="index.php">Home</a></li>
-                                <li class="active"><a href="stavby-na-klic.php">Stavby na klíč</a></li>
-                                <li><a href="typove-domy.php">Typové domy</a></li>
-                                <li><a href="projekty-na-zakazku.php">Projekty na zakázku</a></li>
-                                <li><a href="doplnkove-sluzby.php">Doplňkové služby</a></li>
-                                <li><a href="galerie.php">Galerie</a></li>
-                                <li><a href="kontakt.php">Kontakt</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<?php
+    $title = "Galerie";
+	$active = "galerie";
+	$meta = '
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+        <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>';
+		
+	include("includes/hlavicka.php");
+?>
             <div class="row-fluid">
-                <div class="span8 well">
-
+                <div class="span8 well" style="text-align: center;">
                     <ul class="gallery clearfix">
                         <?php
                         /* $i = 20;
@@ -93,13 +45,63 @@
                         closedir($slozka);
 
                         $pocet_obrazku = count($obrazky);
+<<<<<<< HEAD
                         $i=20;
                         while($i<$pocet_obrazku){
                             echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"" . $obrazky[$i] . "\" style=\"float: left; margin-right: 10px; margin-top: 10px\" /></a>&nbsp;\n";          
+=======
+						$pocet_na_stranku = 21;
+						$posledni = ceil($pocet_obrazku / $pocet_na_stranku);
+						
+						if (isset($_GET['stranka']) &&
+							is_numeric($_GET['stranka']) &&
+							$_GET['stranka'] <= $posledni)
+							$stranka = $_GET['stranka'];
+						else $stranka = 1;
+
+						$zacatek = ($stranka - 1) * $pocet_na_stranku;
+
+						$konec = $zacatek + $pocet_na_stranku;
+						if($konec >= $pocet_obrazku)
+							$konec = $pocet_obrazku;
+						
+                        $i=$zacatek;
+
+                        while($i<$konec){
+                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"Galerie VMD Stavby\" class=\"img-polaroid\" style=\"float: left; margin-right: 20px; margin-top: 10px\" /></a>&nbsp;\n";
+                        
+>>>>>>> e377435dbef8e4a31a36c1684e8e71e0faa78cb1
                             $i++;
                         }
                         ?>
                     </ul>
+                    
+                    <div class="pagination pagination-centered">
+  <ul>
+    <?php 
+	if($stranka == 1)
+		echo "<li class=\"disabled\"><span>&laquo;</span></li>\n";
+	else
+		echo "<li><a href=\"?stranka=".($stranka - 1)."\">&laquo;</a></li>\n";
+
+	for($i = 1; $i <= $posledni; $i++){		
+		if($i == $stranka){
+			echo "<li class=\"active\"><span>".$i."</span></li>\n";
+		}
+		else {
+			echo "<li><a href=\"?stranka=".$i."\">".$i."</a></li>\n";
+		}
+	}
+		if($stranka == $posledni)
+		echo "<li class=\"disabled\"><span>&raquo;</span></li>\n";
+	else
+		echo "<li><a href=\"?stranka=".($stranka + 1)."\">&raquo;</a></li>\n";
+
+    ?>
+  </ul>
+</div>
+                    
+                    
 
                     <script type="text/javascript" charset="utf-8">
                         $(document).ready(function(){

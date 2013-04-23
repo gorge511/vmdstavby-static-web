@@ -1,6 +1,6 @@
                 <div class="span4 well well-blue">
                     <h3>Kontakt</h3>
-                    <p><strong>VMD-PROJEKTY-STAVBY</strong>
+                    <p><strong>VMD-PROJEKTY-STAVBY</strong></p>
                     <table class="kontakt">
                         <tr>
                             <td class="kontakt-label">Adresa: </td>
