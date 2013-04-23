@@ -95,8 +95,7 @@
                         $pocet_obrazku = count($obrazky);
                         $i=20;
                         while($i<$pocet_obrazku){
-                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"" . $obrazky[$i] . "\" style=\"float: left; margin-right: 10px; margin-top: 10px\" /></a>&nbsp;\n";
-                        
+                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"" . $obrazky[$i] . "\" style=\"float: left; margin-right: 10px; margin-top: 10px\" /></a>&nbsp;\n";          
                             $i++;
                         }
                         ?>
