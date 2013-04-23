@@ -18,6 +18,7 @@
         <link href="/css/style.css" rel="stylesheet">
                 
         <?php echo (isset($meta) ? $meta : "") ?>
+        <?php include("analytics.php"); ?>
     </head>
     <body>
         <div class="container" style="width: 900px">
