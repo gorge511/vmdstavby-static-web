@@ -19,10 +19,15 @@ table.kontakt .kontakt-label {
 	text-align: right;
 }
 
-.typove-domy [class*="span"]:nth-child(odd) {
-	margin-left: 0;
+/* .typove-domy [class*="span"]:nth-child(4n+1), */
+.novy-radek {
+	margin-left: 0 !important;
 }
 
-.typove-domy .thumbnails>li {
+.typove-domy .thumbnails > li {
 	margin-bottom: 0;
+}
+
+.typove-domy .caption {
+	font-size: 12px;
 }

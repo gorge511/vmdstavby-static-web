@@ -1,8 +1,9 @@
 <?php
     $title = "Galerie";
 	$active = "galerie";
-	$meta = '<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
-        <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
+	$meta = '
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
         <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>';
 		
 	include("includes/hlavicka.php");

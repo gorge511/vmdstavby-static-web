@@ -1,57 +1,52 @@
 <?php
-    $title = "Kontakt";
-	$active = "kontakt";
+    $title = "Typové domy";
+	$active = "typove-domy";
+	$meta = "<script src=\"js/jquery.min.js\" type=\"text/javascript\"></script>
+	<script type=\"text/javascript\">
+	$(document).ready(function() {
+		$('div.typove-domy .span4:nth-child(4n+1)').addClass('novy-radek');
+	});
+	</script>
+	";
 	include("includes/hlavicka.php");
 ?>
             <div class="row-fluid">
-                <div class="span8 well">
+                <div class="span8 well" style="height: 278px;">
                     <h3>Typové domy</h3>
 		
-<p>Hlavní snahou naší firmy od počátku bylo realizovat a projektovat stavby na klíč a to vždy originálního provedení, ale díky poptávce, jsme již z&nbsp;některých realizovaných či projektovaných staveb vytvořili typové projekty, z&nbsp;kterých si můžete vybrat, nebo se jimi nechat inspirovat pro podobnou stavbu, kterou pro Vás rádi zprojektujeme a zrealizujeme ve stejných cenách jako tyto typové stavby.</p>
+<p>Hlavní snahou naší firmy od počátku bylo realizovat a projektovat stavby na klíč a to vždy originálního provedení, ale díky poptávce, jsme již z&nbsp;některých realizovaných či projektovaných staveb vytvořili typové projekty, z&nbsp;kterých si můžete vybrat, nebo se jimi nechat inspirovat pro podobnou stavbu, kterou pro Vás rádi zprojektujeme a zrealizujeme ve stejných cenách jako tyto typové stavby.</p><br /><br />
 <br />
+                </div>
+<?php include("includes/side-kontakt.php"); ?>
+</div>
 
 <div class="row-fluid typove-domy">
             <ul class="thumbnails">
             <?php
 			include("includes/typove-domy.php");
-			foreach($domy as $dum){
+			foreach($domy as $k => $dum){
 				echo'
-				<li class="span6">
+				<li class="span4">
                 <div class="thumbnail">
-                  <img alt="'.$dum[0].'" src="images/typove_projekty/'.$dum[1].'">
+                  <img alt="'.$dum[0].'" src="images/typove_domy/'.$dum[1].'">
                   <div class="caption">
                     <h3>'.$dum[0].'</h3>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Počet podlaží:</strong>&nbsp;'.$dum[2].'</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Dispozice: </strong>'.$dum[3].'</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Zastavěná plocha:</strong>&nbsp;'.$dum[4].'</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Stavba na klíč:</strong> '.$dum[5].'</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Hrubá stavba: </strong>'.$dum[6].'</span></div>
-                    <p><a href="typove-domy/'.$dum[7].'" class="btn btn-primary">Více info</a></p>
+<p><strong>Počet podlaží:</strong> '.$dum[2].'<br>
+<strong>Dispozice:</strong> '.$dum[3].'<br>
+<strong>Zastavěná plocha:</strong> '.$dum[4].'<br>
+<strong>Stavba na klíč:</strong> '.$dum[5].'<br>
+<strong>Hrubá stavba:</strong> '.$dum[6].'</p>
+                    <p><a href="typove-domy/'.$dum[7].'" class="btn btn-primary pull-right">Více info</a></p>
                   </div>
                 </div>
               </li>';
+			  if(($k % 3) == 2)
+			  	echo '<div class="clearfix"></div>';
 			}
               ?>
-              
-              <li class="span6">
-                <div class="thumbnail">
-                  <img alt="Bungalov 60 2+kk" src="images/typove_projekty/Bungalov_60.jpg">
-                  <div class="caption">
-                    <h3>Bungalov 60 2+kk</h3>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Počet podlaží:</strong>&nbsp;1</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Dispozice: 2</strong>+kk</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Zastavěná plocha:</strong>&nbsp;60,3m2</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Stavba na klíč:</strong> od 990.000,- bez DPH</span></div>
-<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><strong style="line-height: 1.3em;">Hrubá stavba: </strong>od 590.000,- bez DPH</span></div>
-                    <p><a href="typove-domy/77-bungalov-60-2-kk.html" class="btn btn-primary">Více info</a></p>
-                  </div>
-                </div>
-              </li>
             </ul>
           </div>
 
 
-                </div>
-<?php include("includes/side-kontakt.php"); ?>
             </div>
 <?php include("includes/paticka.php"); ?>
