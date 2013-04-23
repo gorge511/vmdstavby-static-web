@@ -18,3 +18,11 @@ table.kontakt .kontakt-label {
 	vertical-align: top;
 	text-align: right;
 }
+
+.typove-domy [class*="span"]:nth-child(odd) {
+	margin-left: 0;
+}
+
+.typove-domy .thumbnails>li {
+	margin-bottom: 0;
+}
