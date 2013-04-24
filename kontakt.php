@@ -2,8 +2,7 @@
 
 if(isset($_POST['form-sended'])) {
 	if(isset($_POST['e-mail']) and $_POST['e-mail'] != ""){
-	//	$to      = 'michaldurech@seznam.cz';
-		$to      = 'gorge@ufoni.cz';
+		$to      = 'michaldurech@seznam.cz';
 		$subject = 'Dotaz z VMDStavby.cz: ' . $_POST['predmet'];
 		$message = $_POST['text'].'
 

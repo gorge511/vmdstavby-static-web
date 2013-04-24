@@ -27,7 +27,7 @@
     </head>
     <body>
         <div class="container" style="width: 900px">
-            <div class="header-logo"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></div>
+            <div class="header-logo"><a href="/"><img src="../images/loga/vmdstavby.png" alt="VMD Stavby"></a></div>
             <div class="navbar navbar-inverse">
                 <div class="navbar-inner">
                     <div class="container" style="width: auto;">
