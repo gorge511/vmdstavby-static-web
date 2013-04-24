@@ -16,7 +16,12 @@
         <link href="/css/font-awesome.min.css" rel="stylesheet">
         <link href="/css/bootswatch.css" rel="stylesheet">  
         <link href="/css/style.css" rel="stylesheet">
-                
+        
+        <script src="/js/jquery.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        	jQuery.noConflict();
+        </script>
+        <script src="/js/bootstrap.min.js"></script>
         <?php echo (isset($meta) ? $meta : "") ?>
         <?php include("analytics.php"); ?>
     </head>

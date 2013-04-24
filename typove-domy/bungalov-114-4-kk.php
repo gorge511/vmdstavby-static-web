@@ -1,5 +1,5 @@
 <?php
-    $title = "Bungalov 60 2+kk";
+    $title = "Bungalov 114 4+kk";
 	$active = "typove-domy";
 	include("../includes/hlavicka.php");
 ?>
@@ -132,106 +132,8 @@
 <p style="margin-bottom: 0cm;" class="western"><b style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">cena: 14.000,- bez DPH</b></p>
 <p style="margin-bottom: 0cm;" class="western"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">&nbsp;</span></p>
 <p style="margin-bottom: 0cm;" class="western"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;" size="2">Další možné vícepráce rádi doceníme dle vašich požadavků.</span></p>
-</div> 
-	
 </div>
-
-					<div class="jpclr"></div>
-                	                	<div class="jpclr"></div>
                 </div>
+<?php include("../includes/side-kontakt.php"); ?>
             </div>
-        	<div class="jpclr"></div>
-        </div>
-        <div class="jpclr"></div>
-<!--END JOOMLA CONTENT -->
-			
-					
-					</div>
-	
-	  </div><!-- div.main ends here-->	
-		<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->
-	</div> <!-- div.main_inner ends here-->
-</div> <!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-<!-- div.main_outer ends here--><!-- div.main_outer ends here-->
-					 	
-					<!-- Including bottom content area-->
-					<div class="bottom_module template_width">
-      <div class="userbottom2">		<div class="module">
-			<div>
-				<div>
-					<div>
-													<h3>Kontakt</h3>
-											
-
-<div class="custom"  >
-	<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">VMD-PROJEKTY-STAVBY</span></p>
-<address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Na Náměti 561</span></address><address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Kutná Hora</span></address><address style="margin-left: 30px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">284 01</span></address>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Tel.: 731&nbsp;554&nbsp;141, 733&nbsp;383&nbsp;064</span></p>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">e-mail.: <span color="#0000ff" style="color: #0000ff;"><a href="mailto:
- <script type='text/javascript'>
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy58040 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;';
- addy58040 = addy58040 + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- document.write('<a ' + path + '\'' + prefix + ':' + addy58040 + '\'>');
- document.write(addy58040);
- document.write('<\/a>');
- //-->\n </script><script type='text/javascript'>
- <!--
- document.write('<span style=\'display: none;\'>');
- //-->
- </script>Tato e-mailová adresa je chráněna před spamboty. Pro její zobrazení musíte mít povolen Javascript.
- <script type='text/javascript'>
- <!--
- document.write('</');
- document.write('span>');
- //-->
- </script>"><span color="#000000" style="color: #000000;"></span></a><span color="#000000" style="color: #000000;">
- <script type='text/javascript'>
- <!--
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy78948 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;';
- addy78948 = addy78948 + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- var addy_text78948 = 'm&#105;ch&#97;ld&#117;r&#101;ch' + '&#64;' + 's&#101;zn&#97;m' + '&#46;' + 'cz';
- document.write('<a ' + path + '\'' + prefix + ':' + addy78948 + '\'>');
- document.write(addy_text78948);
- document.write('<\/a>');
- //-->\n </script><script type='text/javascript'>
- <!--
- document.write('<span style=\'display: none;\'>');
- //-->
- </script>Tato e-mailová adresa je chráněna před spamboty. Pro její zobrazení musíte mít povolen Javascript.
- <script type='text/javascript'>
- <!--
- document.write('</');
- document.write('span>');
- //-->
- </script></span></span></span></p>
-<p class="western" style="margin-bottom: 0cm;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">www.vmdstavby.cz</span></p>
-<p class="western" style="margin-bottom: 0cm;"><a href="http://www.vprojekty.cz/"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">www.vprojekty.cz</span></a></p></div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-     
-    
-		
-	<div class="jpclear"></div><!--AUTO HEIGH FIX FOR FIREFOX -->	
-</div>  					
-
-
-
-
-</body>
-
-<!-- Mirrored from vmdstavby.cz/index.php/using-joomla/extensions/components/content-component/article-categories/101-bungalov-114 by HTTrack Website Copier/3.x [XR&CO'2008], Thu, 18 Apr 2013 22:18:25 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8"><!-- /Added by HTTrack -->
-</html>
+<?php include("../includes/paticka.php"); ?>

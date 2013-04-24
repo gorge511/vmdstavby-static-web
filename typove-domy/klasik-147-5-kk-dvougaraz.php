@@ -1,5 +1,5 @@
 <?php
-    $title = "Bungalov 60 2+kk";
+    $title = "KLASIK 147 5+kk+DVOUGARÁŽ";
 	$active = "typove-domy";
 	include("../includes/hlavicka.php");
 ?>

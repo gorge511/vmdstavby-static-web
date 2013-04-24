@@ -2,7 +2,6 @@
     $title = "Galerie";
 	$active = "galerie";
 	$meta = '
-	<script src="js/jquery.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" />
         <script src="js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>';
 		

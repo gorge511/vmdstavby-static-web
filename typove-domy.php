@@ -1,10 +1,10 @@
 <?php
     $title = "Typové domy";
 	$active = "typove-domy";
-	$meta = "<script src=\"js/jquery.min.js\" type=\"text/javascript\"></script>
+	$meta = "
 	<script type=\"text/javascript\">
-	$(document).ready(function() {
-		$('div.typove-domy .span4:nth-child(4n+1)').addClass('novy-radek');
+	jQuery(document).ready(function() {
+		jQuery('div.typove-domy .span4:nth-child(4n+1)').addClass('novy-radek');
 	});
 	</script>
 	";
