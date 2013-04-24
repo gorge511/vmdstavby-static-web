@@ -6,7 +6,7 @@
             <div class="row-fluid">
                 <div class="span8 well">
 	<h2>KLASIK 147 5+kk+DVOUGARÁŽ</h2>
-<p><strong style="line-height: 1.3em;"><img style="margin-right: 20px; float: left;" src="../images/typove_domy/klasik_147.jpg" alt="klasik 147" width="163" height="124" /><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 2</span></p>
+<p><strong style="line-height: 1.3em;"><img style="margin-right: 20px; float: left;" src="../images/typove_domy/KLASIK_147.jpg" alt="klasik 147" width="163" height="124" /><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 2</span></p>
 <p><strong><span style="font-size: 10pt;" data-mce-mark="1">Dispozice:</span></strong><span style="font-size: 10pt;" data-mce-mark="1"> 5+kk+DVOUGARÁŽ</span></p>
 <p><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 147m2</span></p>
 <p><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 3.080.000,- bez DPH</span></p>
