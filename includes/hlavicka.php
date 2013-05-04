@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="cs-cz">
     <head>
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="keywords" content="Provádíme stavby na klíč, stavby domů, projekty, realizace staveb, projektové dokumentace, hrubé stavby, rodinné domy." />
         <meta name="author" content="Batha" />
