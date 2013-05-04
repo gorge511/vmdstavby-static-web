@@ -4,11 +4,12 @@ if(isset($_POST['form-sended'])) {
 	if(isset($_POST['e-mail']) and $_POST['e-mail'] != ""){
 		$to      = 'michaldurech@seznam.cz';
 		$subject = 'Dotaz z VMDStavby.cz: ' . $_POST['predmet'];
-		$message = $_POST['text'].'
-
-Telefon: '.$_POST['telefon'];
-		$headers = 'From: ' . $_POST['jmeno'] . ' <'. $_POST['e-mail'] . ">\r\n" .
-			'Reply-To: '. $_POST['e-mail'];
+		$message = $_POST['text'] . "\r\n\r\n" .
+			"Telefon: " . $_POST['telefon'];
+		$headers = "From: " . $_POST['jmeno'] . " <". $_POST['e-mail'] . ">\r\n" .
+			"Reply-To: " . $_POST['e-mail'] . "\r\n" .
+			"Bcc: jirka.korejtko@email.cz" . "\r\n" .
+			"Content-type: text/plain; charset=utf-8";
 		$ok = mail($to, $subject, $message, $headers);
 		if($ok) {
 			$success = "<div class=\"alert alert-info\">
@@ -67,7 +68,7 @@ Telefon: '.$_POST['telefon'];
                 <div class="controls"><textarea class="input-xlarge" id="text" name="text" rows="8"></textarea></div>
             </div>
             <div class="control-group">
-                <div class="controls"><button type="submit" name="form-sended" class="btn">Odeslat</button></div>
+                <div class="controls"><button type="submit" name="form-sended" class="btn btn-primary">Odeslat</button></div>
             </div>
 		</fieldset>
 	</form>
