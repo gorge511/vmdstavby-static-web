@@ -40,8 +40,7 @@
                         </tr>
                         <tr>
                             <td class="kontakt-label">Web:</td>
-                            <td><a href="//www.vmdstavby.cz">www.vmdstavby.cz</a><br>
-                                <a href="//www.vprojekty.cz">www.vprojekty.cz</a></td>
+                            <td><a href="//www.vmdstavby.cz">www.vmdstavby.cz</a></td>
                         </tr>
                     </table>
                 </div>
