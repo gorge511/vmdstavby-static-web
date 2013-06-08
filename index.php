@@ -10,7 +10,7 @@
 ?>
 <div class="well well-blue text-center">
   <h1><a href="typove-domy.php">Sleva ve výši 5 % na všechny uvedené ceny!</a></h1>
-  <p>Platí při <a href="kontakt.php">objednání</a> nezávazného osobního jednání do 15.&nbsp;6.&nbsp;2013.</p>
+  <p>Platí při <a href="kontakt.php">objednání</a> nezávazného osobního jednání do 31.&nbsp;7.&nbsp;2013.</p>
 </div>
 <?php include("includes/slideshow.php"); ?>
             <div class="row-fluid">
