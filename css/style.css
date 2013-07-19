@@ -31,3 +31,17 @@ table.kontakt .kontakt-label {
 .typove-domy .caption {
 	font-size: 12px;
 }
+
+.typovy-dum {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+.typovy-dum p {
+	margin-top: 0.07cm;
+	margin-bottom: 0.07cm;
+}
+
+p.center {
+	text-align: center;
+}
