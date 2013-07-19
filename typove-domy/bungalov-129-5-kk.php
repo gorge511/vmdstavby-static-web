@@ -20,7 +20,7 @@
 <p>Dům je střední rozměrové kategorie a je vhodný pro čtyř až pěti člennou rodinu. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>
 <p>&nbsp;</p>
 
-<p><img alt="bungalov 129" src="../images/typove_domy_pudorysy/bungalov_129.jpg"></p>
+<p><img alt="bungalov 129" src="../images/typove_domy_pudorysy/Bungalov_129.jpg"></p>
 <p>&nbsp;</p>
 
 <p><strong>Základní vybavenost:</strong></p>

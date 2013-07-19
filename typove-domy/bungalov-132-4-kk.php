@@ -20,7 +20,7 @@
 <p>Dům je střední rozměrové kategorie a je vhodný pro dvou až čtyř člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>
 <p>&nbsp;</p>
 
-<p><img alt="bungalov 132" src="../images/typove_domy_pudorysy/bungalov_132.jpg"></p>
+<p><img alt="bungalov 132" src="../images/typove_domy_pudorysy/Bungalov_132.jpg"></p>
 <p>&nbsp;</p>
 
 <p><strong>Základní vybavenost:</strong></p>

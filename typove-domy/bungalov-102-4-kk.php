@@ -20,7 +20,7 @@
 <p>Dům je menší rozměrové kategorie a je vhodný pro tří až pěti člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>
 <p>&nbsp;</p>
 
-<p><img alt="bungalov 102" src="../images/typove_domy_pudorysy/bungalov_102.jpg"></p>
+<p><img alt="bungalov 102" src="../images/typove_domy_pudorysy/Bungalov_102.jpg"></p>
 <p>&nbsp;</p>
 
 <p><strong>Základní vybavenost:</strong></p>

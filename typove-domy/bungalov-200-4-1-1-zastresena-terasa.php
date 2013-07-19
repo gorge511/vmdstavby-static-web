@@ -20,7 +20,7 @@
 <p>Dům je větší rozměrové kategorie a je vhodný pro čtyř až pěti člennou rodinu. Dům je při dispozičních změnách možno zvětšit na 5-6 ti pokojový. Projekt možno vzrcadlit popřípadě jakkoliv upravit.</p>
 <p>&nbsp;</p>
 
-<p><img alt="bungalov 200" src="../images/typove_domy_pudorysy/bungalov_200.jpg"></p>
+<p><img alt="bungalov 200" src="../images/typove_domy_pudorysy/Bungalov_200.jpg"></p>
 <p>&nbsp;</p>
 
 <p><strong>Základní vybavenost:</strong></p>
