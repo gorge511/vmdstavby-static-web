@@ -8,10 +8,11 @@
         <script src="modules/smooth_gallery/jd.gallery.js" type="text/javascript"></script>';
 	include("includes/hlavicka.php");
 ?>
-<div class="well well-blue text-center">
+<!-- <div class="well well-blue text-center">
   <h1><a href="typove-domy.php">Sleva ve výši 5 % na všechny uvedené ceny!</a></h1>
   <p>Platí při <a href="kontakt.php">objednání</a> nezávazného osobního jednání do 20.&nbsp;12.&nbsp;2013.</p>
 </div>
+-->
 <?php include("includes/slideshow.php"); ?>
             <div class="row-fluid">
                 <div class="span8 well">
