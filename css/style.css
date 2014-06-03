@@ -45,3 +45,7 @@ table.kontakt .kontakt-label {
 p.center {
 	text-align: center;
 }
+.typovy-dum-detail p {
+	font-size: 10pt;
+	margin: 0cm 0cm 0.0001pt; line-height: 150%;
+}
