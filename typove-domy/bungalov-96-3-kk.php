@@ -10,7 +10,7 @@
 <div class="typovy-dum">
 <img style="float: left; margin-right: 20px;" alt="Bungalov 96" src="../images/typove_domy/Bungalov_96.jpg">
 <p><strong>Počet podlaží:</strong> 1</p>
-<p><strong>Dispozice:</strong> 3+kk + garáž</p>
+<p><strong>Dispozice:</strong> 3+kk</p>
 <p><strong>Zastavěná plocha:</strong> 95,8m2</p>
 <p><strong>Stavba na klíč:</strong> od 1.600.000,- bez DPH</p>
 <p><strong>Hrubá stavba:</strong> od 840.000,- bez DPH</p>
@@ -20,7 +20,7 @@
 <p>Dům je menší rozměrové kategorie a je vhodný pro tří až pěti člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>
 <p>&nbsp;</p>
 
-<p><img alt="bungalov 102" src="../images/typove_domy_pudorysy/Bungalov_102_2.jpg"></p>
+<p><img alt="bungalov 96" src="../images/typove_domy_pudorysy/Bungalov_96.jpg"></p>
 <p>&nbsp;</p>
 
 <p><strong>Základní vybavenost:</strong></p>
