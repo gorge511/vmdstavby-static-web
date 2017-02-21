@@ -9,8 +9,8 @@
 <p><img style="float: left; margin-right: 20px;" alt="Bungalov 140" src="../images/typove_domy/Bungalov_140.jpg" width="297" />Počet podlaží:&nbsp;1</p>
 <p>Dispozice: 4+kk</p>
 <p>Zastavěná plocha: 139,50 m2</p>
-<p>Stavba na klíč: od 2.400.000,- bez DPH</p>
-<p>Hrubá stavba: od 1.220.000,- bez DPH</p>
+<p>Stavba na klíč: od 2.640.000,- bez DPH</p>
+<p>Hrubá stavba: od 1.342.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je střední rozměrové kategorie a je vhodný pro dvou až čtyř člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit. Lze upravit mimo jiné pro verzi s 2-mi WC.</p>

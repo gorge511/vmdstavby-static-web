@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 2</p>
 <p><strong>Dispozice:</strong> 7+kk+Garáž</p>
 <p><strong>Zastavěná plocha:</strong> 157,2m2</p>
-<p><strong>Stavba na klíč:</strong> od 3.940.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 2.210.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 4.334.000,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 2.431.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 

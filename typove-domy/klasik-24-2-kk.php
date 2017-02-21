@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 2</p>
 <p><strong>Dispozice:</strong> 2+kk</p>
 <p><strong>Zastavěná plocha:</strong> 24,0m2</p>
-<p><strong>Stavba na klíč:</strong> od 860.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 490.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 946.000,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 539.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 

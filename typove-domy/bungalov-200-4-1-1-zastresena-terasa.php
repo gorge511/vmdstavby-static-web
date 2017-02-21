@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 4+1+1 + ZASTŘEŠENÁ TERASA</p>
 <p><strong>Zastavěná plocha:</strong> 200m2</p>
-<p><strong>Stavba na klíč:</strong> od 2.950.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 1.500.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 3.245.000,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 1.650.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 

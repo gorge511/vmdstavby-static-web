@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 3+kk</p>
 <p><strong>Zastavěná plocha:</strong> 95,8m2</p>
-<p><strong>Stavba na klíč:</strong> od 1.600.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 840.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 1.760.000,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 924.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 
