@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 5+kk + garáž</p>
 <p><strong>Zastavěná plocha:</strong> 217,5 m2</p>
-<p><strong>Stavba na klíč:</strong> od 3.289.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 1.716.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 3.617.900,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 1.887.600,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 

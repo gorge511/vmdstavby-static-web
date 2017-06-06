@@ -12,8 +12,8 @@
 <p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Počet podlaží:</strong> 2</span></p>
 <p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Dispozice:</strong> 7+kk</span></p>
 <p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Zastavěná plocha:</strong> 217,85m2</span></p>
-<p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Stavba na klíč:</strong> od 8.360.000,- bez DPH</span></p>
-<p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Hrubá stavba:</strong> od 4.730.000,- bez DPH</span></p>
+<p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Stavba na klíč:</strong> od 9.196.000,- bez DPH</span></p>
+<p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong>Hrubá stavba:</strong> od 5.203.000,- bez DPH</span></p>
 <p style="margin-top: 0.07cm; margin-bottom: 0.07cm;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">Ceny uvedené pro základní vybavenost</span></p>
 <p style="margin-bottom: 0cm;" class="western"><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">&nbsp;</span></p>
 <p style="margin-bottom: 0cm;" class="western"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">Dům je velké rozměrové kategorie se sedmi obytnými místnostmi, jednou dvou garáží, jednou garáží pro zahradní techniku a sklepními vyhřívanými místnostmi s&nbsp;širokým využitím . Projekt možno vzrcadlit popřípadě jakkoliv upravit.</span></p>

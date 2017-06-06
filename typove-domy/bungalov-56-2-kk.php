@@ -9,8 +9,8 @@
 <p><img style="float: left; margin-right: 20px;" alt="Bungalov 56" src="../images/typove_domy/Bungalov_56.jpg" width="297" />Počet podlaží:&nbsp;1</p>
 <p>Dispozice: 2+kk</p>
 <p>Zastavěná plocha: 55,5m2</p>
-<p>Stavba na klíč: od 1.032.900,- bez DPH</p>
-<p>Hrubá stavba: od 572.000,- bez DPH</p>
+<p>Stavba na klíč: od 1.136.190,- bez DPH</p>
+<p>Hrubá stavba: od 629.200,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je menší rozměrové kategorie a je vhodný pro dvou člennou začínající rodinu, starší lidi, dům pro hosty a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>

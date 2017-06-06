@@ -10,8 +10,8 @@
 <div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 2</span></span></div>
 <div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Dispozice:</span></strong><span style="font-size: 10pt;"> 4+kk</span></span></div>
 <div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 56,20 m2</span></span></div>
-<div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 1.903.000,- bez DPH</span></span></div>
-<div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 990.000,- bez DPH</span></span></div>
+<div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 2.093.300,- bez DPH</span></span></div>
+<div><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.089.000,- bez DPH</span></span></div>
 <div><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">Ceny uvedené pro základní vybavenost</span></div>
 <p>&nbsp;</p>
 <p><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="font-size: 11pt;"><img alt="KLASIK 56 4 kk a" src="../images/typove_domy_pudorysy/KLASIK_56_4_kk_a.jpg" width="293" height="250" /><img alt="KLASIK 56 4 kk p" src="../images/typove_domy_pudorysy/KLASIK_56_4_kk_p.jpg" width="272" height="250" /></span></strong></span></p>

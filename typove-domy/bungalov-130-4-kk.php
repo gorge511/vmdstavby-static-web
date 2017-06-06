@@ -9,8 +9,8 @@
 <p><img style="float: left; margin-right: 20px;" alt="Bungalov 130" src="../images/typove_domy/Bungalov_130.jpg" width="297" />Počet podlaží:&nbsp;1</p>
 <p>Dispozice: 4+kk</p>
 <p>Zastavěná plocha: 130,40 m2</p>
-<p>Stavba na klíč: od 2.266.000,- bez DPH</p>
-<p>Hrubá stavba: od 1.166.000,- bez DPH</p>
+<p>Stavba na klíč: od 2.492.600,- bez DPH</p>
+<p>Hrubá stavba: od 1.282.600,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je menší rozměrové kategorie a je vhodný pro tří až pěti člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>

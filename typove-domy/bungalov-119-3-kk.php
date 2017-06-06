@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 3+kk</p>
 <p><strong>Zastavěná plocha:</strong> 119m2</p>
-<p><strong>Stavba na klíč:</strong> od 2.079.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 1.089.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 2.286.900,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 1.197.900,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je střední rozměrové kategorie a je vhodný pro tří až čtyř člennou rodinu. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>
