@@ -11,7 +11,7 @@
                 <div class="span8 well" style="text-align: center;">
                     <ul class="gallery clearfix">
                         <?php
-                        $nazev_slozky = "galerie/vzorove-stavby/nahled";
+                        $nazev_slozky = "galerie/vzorove-stavby";
 
                         $slozka = opendir($nazev_slozky);
                         if ($slozka == false)
@@ -19,13 +19,13 @@
                         while ($soubor = readdir($slozka)) {
                             if ($soubor == ".." || $soubor == ".")
                                 continue;
-                            if (preg_match("/nahled_/", $soubor))
-                                continue;
                             if (preg_match("/jpg/", $soubor)) {
                                 $obrazky[] = $soubor;
                             }
                         }
                         closedir($slozka);
+
+                        rsort($obrazky);
 
                         $pocet_obrazku = count($obrazky);
 
@@ -47,7 +47,7 @@
                         $i=$zacatek;
 
                         while($i<$konec){
-                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahled_" . $obrazky[$i] . "\" alt=\"Galerie VMD Stavby\" class=\"img-polaroid\" style=\"float: left; margin-right: 20px; margin-top: 10px\" /></a>&nbsp;\n";
+                            echo "<a href=\"" . $nazev_slozky . "/" . $obrazky[$i] . "\" rel=prettyPhoto[gallery2] ><img src=\"" . $nazev_slozky . "/nahledy/" . $obrazky[$i] . "\" alt=\"Galerie VMD Stavby\" class=\"img-polaroid\" style=\"float: left; margin-right: 20px; margin-top: 10px\" /></a>&nbsp;\n";
                             $i++;
                         }
                         ?>
