@@ -139,7 +139,7 @@
 <p><strong>Finální podlahy:</strong></p>
 <p><em>Koupelny a samostatná WC:</em> keramická dlažba a obklad do výšky stropů v ceně do 250,-/m2 bez DPH bez liš a listel z katalogových cen SIKO</p>
 <p><em>Technická místnost a garáž:</em> keramická dlažba a sok do výšky 80mm v ceně do 250,-/m2 bez DPH bez liš a listel z katalogových cen SIKO</p>
-<p><em>Balkon 2.NP: mrazuvzdorná keramická dlažba a sok do výšky 80mm v ceně do 250,-/m2 bez DPH bez liš a listel z katalogových cen SIKO</p>
+<p><em>Balkon 2.NP:</em> mrazuvzdorná keramická dlažba a sok do výšky 80mm v ceně do 250,-/m2 bez DPH bez liš a listel z katalogových cen SIKO</p>
 <p><em>Ostatní vnitřní místnosti:</em> PVC linoleum popř. koberce v katalogové ceně do 250,-/m2 včetně DPH</p>
 <p>&nbsp;</p>
 
