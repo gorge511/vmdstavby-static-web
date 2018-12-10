@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 5+kk</p>
 <p><strong>Zastavěná plocha:</strong> 140,0 m2</p>
-<p><strong>Stavba na klíč:</strong> od 2.746.700,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 1.343.100,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 3.296.040,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 1.611.720,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je menší rozměrové kategorie a je vhodný pro tří až pěti člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>

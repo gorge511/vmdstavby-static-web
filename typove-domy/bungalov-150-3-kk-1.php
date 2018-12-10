@@ -9,8 +9,8 @@
 <p><img style="margin-bottom: 0px; margin-right: 20px; float: left;" src="../images/typove_domy/bungalov_150.jpg" alt="bungalov 150" width="255" height="124" /><strong style="line-height: 1.3em;"><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 1</span></p>
 <p><strong><span style="font-size: 10pt;">Dispozice:</span></strong><span style="font-size: 10pt;"> 3+kk+1 x ZASTŘEŠENÁ ZASKLENÁ TERASA</span></p>
 <p><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 150m2 včetně terasy</span></p>
-<p><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 3.146.000,- bez DPH</span></p>
-<p><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.597.200,- bez DPH</span></p>
+<p><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 3.775.200,- bez DPH</span></p>
+<p><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.916.640,- bez DPH</span></p>
 <p><span style="font-size: 10pt;">Ceny uvedené pro základní vybavenost</span></p>
 <p><span style="font-size: 10pt;">&nbsp;</span></p>
 <p><span style="font-size: 11pt;">Dům je střední rozměrové kategorie a je vhodný pro tří až čtyř člennou rodinu. Dům je při dispozičních změnách možno zvětšit na 4pokojový. Projekt možno vzrcadlit popřípadě jakkoliv upravit.</span></p>

@@ -10,8 +10,8 @@
 <div><strong><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 2</span></div>
 <div><b><span style="font-size: 10pt;">Dispozice:</span></b><span style="font-size: 10pt;"> 6+kk</span></div>
 <div><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 137,75m2</span></div>
-<div><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 4.222.900,- bez DPH</span></div>
-<div><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 2.286.900,- bez DPH</span></div>
+<div><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 5.067.480,- bez DPH</span></div>
+<div><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 2.744.280,- bez DPH</span></div>
 <div><span style="font-size: 10pt;">Ceny uvedené pro základní vybavenost</span></div>
 <p><b><span style="font-size: 11pt;">&nbsp;</span></b></p>
 <p>&nbsp;</p>

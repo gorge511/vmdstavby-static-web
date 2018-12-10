@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 1</p>
 <p><strong>Dispozice:</strong> 4+kk</p>
 <p><strong>Zastavěná plocha:</strong> 145,6m2</p>
-<p><strong>Stavba na klíč:</strong> od 2.855.600,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 1.560.900,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 3.426.720,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 1.873.080,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je střední rozměrové kategorie a je vhodný pro čtyř až pěti člennou rodinu. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>

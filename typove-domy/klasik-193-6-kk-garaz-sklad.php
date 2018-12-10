@@ -12,8 +12,8 @@
 <p><strong>Počet podlaží:</strong> 2</p>
 <p><strong>Dispozice:</strong> 6+kk + garáž + sklad</p>
 <p><strong>Zastavěná plocha:</strong> 193,0 m2</p>
-<p><strong>Stavba na klíč:</strong> od 5.560.000,- bez DPH</p>
-<p><strong>Hrubá stavba:</strong> od 2.690.000,- bez DPH</p>
+<p><strong>Stavba na klíč:</strong> od 6.672.000,- bez DPH</p>
+<p><strong>Hrubá stavba:</strong> od 3.228.000,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 

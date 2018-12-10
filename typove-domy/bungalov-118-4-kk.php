@@ -9,8 +9,8 @@
 <p><img style="float: left; margin-right: 20px;" alt="Bungalov 118" src="../images/typove_domy/Bungalov_118.jpg" width="297" />Počet podlaží:&nbsp;1</p>
 <p>Dispozice: 4+kk</p>
 <p>Zastavěná plocha: 118,08m2</p>
-<p>Stavba na klíč: od 2.262.700,- bez DPH</p>
-<p>Hrubá stavba: od 1.149.500,- bez DPH</p>
+<p>Stavba na klíč: od 2.715.240,- bez DPH</p>
+<p>Hrubá stavba: od 1.379.400,- bez DPH</p>
 <p>Ceny uvedené pro základní vybavenost</p>
 <p>&nbsp;</p>
 <p>Dům je menší rozměrové kategorie a je vhodný pro tří až pěti člennou rodinu a rekreační objekt. Projekt možno vzrcadli popřípadě jakkoliv upravit.</p>

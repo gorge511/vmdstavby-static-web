@@ -9,8 +9,8 @@
 <p><strong style="line-height: 1.3em;"><img style="margin-right: 20px; float: left;" src="../images/typove_domy/KLASIK_147.jpg" alt="klasik 147" width="163" height="124" /><span style="font-size: 10pt;">Počet podlaží:</span></strong><span style="font-size: 10pt;"> 2</span></p>
 <p><strong><span style="font-size: 10pt;" data-mce-mark="1">Dispozice:</span></strong><span style="font-size: 10pt;" data-mce-mark="1"> 5+kk+DVOUGARÁŽ</span></p>
 <p><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 147m2</span></p>
-<p><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 3.726.800,- bez DPH</span></p>
-<p><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.936.000,- bez DPH</span></p>
+<p><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 4.472.160,- bez DPH</span></p>
+<p><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 2.323.200,- bez DPH</span></p>
 <p><span style="font-size: 10pt;">Ceny uvedené pro základní vybavenost</span></p>
 <p><strong><span style="font-size: 11pt;">&nbsp;</span></strong></p>
 <p><span style="font-size: 11pt;">Dům je střední rozměrové kategorie a je vhodný pro pěti až šesti člennou rodinu, za velmi příjemnou cenu. Nad nevytápěnou dvou garáží je neobytná půda s&nbsp;přístupem po výsuvných schodech. Projekt možno vzrcadlit popřípadě jakkoliv upravit.</span></p>

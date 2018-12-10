@@ -7,6 +7,7 @@ folderNew = "typove-domy-new"
 filename = "includes/typove-domy" # .php
 files = listdir(folder)
 number_of_houses = len(files)
+multiply_by = 1.2
 
 for mFile in files:
     print mFile
@@ -19,7 +20,7 @@ for mFile in files:
                 res = re.search("od ([0-9.]+),-", line)
                 if res:
                     num = int(res.group(1).replace(".", ""))
-                    num *= 1.1
+                    num *= multiply_by
                     num = "{0:,}".format(int(num)).replace(",", ".")
 
                     print line.replace(res.group(1), num)
@@ -34,7 +35,7 @@ with open(filename + "-new.php", "w") as f_new:
                 res = re.search("od ([0-9.]+),-", line)
                 if res:
                     num = int(res.group(1).replace(".", ""))
-                    num *= 1.1
+                    num *= multiply_by
                     num = "{0:,}".format(int(num)).replace(",", ".")
 
                     print line.replace(res.group(1), num)

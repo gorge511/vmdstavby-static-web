@@ -9,8 +9,8 @@
 <div><strong><span style="font-size: 10pt;"><img style="margin-right: 20px; float: left;" alt="Bungalov 98" src="../images/typove_domy/Bungalov_98.jpg" width="241" height="114" />Počet podlaží:</span></strong><span style="font-size: 10pt;"> 1</span></div>
 <div><b><span style="font-size: 10pt;">Dispozice:</span></b><span style="font-size: 10pt;"> 4+kk</span></div>
 <div><strong><span style="font-size: 10pt;">Zastavěná plocha:</span></strong><span style="font-size: 10pt;"> 98m2</span></div>
-<div><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 2.032.800,- bez DPH</span></div>
-<div><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.076.900,- bez DPH</span></div>
+<div><strong><span style="font-size: 10pt;">Stavba na klíč:</span></strong><span style="font-size: 10pt;"> od 2.439.360,- bez DPH</span></div>
+<div><strong><span style="font-size: 10pt;">Hrubá stavba:</span></strong><span style="font-size: 10pt;"> od 1.292.280,- bez DPH</span></div>
 <div><span style="font-size: 10pt;">Ceny uvedené pro základní vybavenost</span></div>
 <p><b><span style="font-size: 11pt;">&nbsp;</span></b></p>
 <p><b><span style="font-size: 11pt;">&nbsp;</span></b></p>
